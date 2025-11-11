@@ -1,10 +1,8 @@
 # TodoApp
+## 🧩 General Flow
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.3.
+<img width="961" height="911" alt="Screenshot 2025-10-07 115406" src="https://github.com/user-attachments/assets/7bb6221c-d051-4097-9f21-bb5cd5c4f97f" />
 
+<img width="967" height="920" alt="Screenshot 2025-10-07 145534" src="https://github.com/user-attachments/assets/678a2b85-cc8e-4798-b56a-5a39be91ec24" />
 
-<img width="961" height="911" alt="image" src="https://github.com/user-attachments/assets/af5e63c5-a86b-4005-ad1b-549f524851e6" />
-
-<img width="967" height="920" alt="image" src="https://github.com/user-attachments/assets/6d4f4b00-c633-4a2f-9c9e-5b993595011d" />
-
-<img width="967" height="922" alt="image" src="https://github.com/user-attachments/assets/52951af9-9253-4ddf-beb6-aa3fb2967161" />
+<img width="967" height="922" alt="Screenshot 2025-10-07 145557" src="https://github.com/user-attachments/assets/2959d967-6ac6-4c36-afc0-357f9d5b4b5c" />
