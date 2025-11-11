@@ -1,0 +1,20 @@
+<!-- add todo -->
+<div>
+    <p class="water">Don't forget to drink water!</p> 
+    <div class="addTodo">
+        <input type="text" [(ngModel)]="todoItem" placeholder="Add new..">
+    </div>
+    <button (click)="saveTodoItem()">Add To List</button>
+</div>
+
+<!-- list -->
+<div>
+    <ul>
+        <li *ngFor="let todo of todos">
+            <input type="checkbox" [(ngModel)]="todo.completed" />
+            <span [class.completed]="todo.completed">{{ todo.title }}</span>
+            <button (click)="removeTodo(todo.id)">Delete</button>
+
+        </li>
+    </ul>
+</div>
